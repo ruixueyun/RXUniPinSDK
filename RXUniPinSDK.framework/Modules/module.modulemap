@@ -1,0 +1,6 @@
+framework module RXUniPinSDK {
+  umbrella header "RXUniPinSDK.h"
+  export *
+
+  module * { export * }
+}
